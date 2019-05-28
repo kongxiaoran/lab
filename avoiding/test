@@ -1,0 +1,10 @@
+%YAML:1.0
+lower_color:
+   - 0
+   - 40
+   - 0
+upper_color:
+   - 20
+   - 255
+   - 255
+
